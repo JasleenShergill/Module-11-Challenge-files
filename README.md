@@ -5,11 +5,14 @@ Welcome to my latest project, where we embark on an exciting journey to explore 
 **Dataset Reference:**
 The data for this project was sourced from NASA's Mars News website and Mars Temperature Data Site, providing us with up-to-date information on the Martian climate and exploration missions. 📡 
 
-**Project Overview:** 
+**Project Overview:**   
+
 **Part 1: Unveiling Mars News 📰**
+
 In this part of the project, we'll utilize automated browsing techniques to scrape the latest news articles from Mars. Using Python's Beautiful Soup, we'll extract titles and preview text, providing us with insights into ongoing missions and discoveries. 
 
 **Part 2: Analyzing Martian Weather 🌡️** 
+
 In the second part, we'll dive deeper into the Martian climate. By scraping and analyzing Mars weather data, we'll gain a better understanding of temperature variations and atmospheric conditions. Through visualizations and statistical analysis, we'll unravel the mysteries of Martian weather patterns.
 
 **Project Files:** 
